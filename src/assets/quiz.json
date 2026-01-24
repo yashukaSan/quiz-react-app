@@ -62,7 +62,7 @@
         },
         {
             "ques-id": "m7",
-            "question": "Area of hollow circular field whose outer radius if 75m and inner dimeter is 70m",
+            "question": "Area of hollow circular field whose outer radius is 75m and inner dimeter is 70m",
             "c1": "13816 sq.m",
             "c2": "2276.5 sq.m",
             "c3": "2500 sq.m",
@@ -92,7 +92,7 @@
         },
         {
             "ques-id": "m10",
-            "question": "Person A buy car for $450000 then use it for 300 days, average daily consumption of car is $45, then Person A sold it for $440000 to a Person B, Person B give repairment to the car which is worth $3000, After that Person B also sold the car in $460000. Find Profit made by Person B compare to Person A",
+            "question": "Person A buy car for $450000 then use it for 300 days, average daily consumption of the car is $45, then Person A sold it for $440000 to Person B, Person B do repairment to the car which worth $3000, After that Person B also sold the car in $460000. Find Profit made by Person B compare to Person A",
             "c1": "$40500",
             "c2": "$40000",
             "c3": "$17000",
@@ -102,7 +102,7 @@
         },
         {
             "ques-id": "m11",
-            "question": "Person A buys 60 products woth $400 each, he sells then for $420 11 pieces per day. Find in what days he sold all his stuff, also find total profit after the total expenses to sell his products is about $300",
+            "question": "Person A buys 60 products woth $400 each, he sells them for $420 each piece and 11 pieces per day. Find in what days he sold all his stuff, also find total profit after the total expenses to sell his products is about $300",
             "c1": "In 5 days with total profit of $900",
             "c2": "In 6 days with total profit of $1200",
             "c3": "In 5 days with total profit of $1200",
@@ -124,7 +124,7 @@
     "english": [
         {
             "ques-id": "e1",
-            "question": "Find correct Spell",
+            "question": "Find correct Spell - ",
             "c1": "annotation",
             "c2": "anoughtation",
             "c3": "anotation",
@@ -134,7 +134,7 @@
         },
         {
             "ques-id": "e2",
-            "question": "Find correct Spell",
+            "question": "Find correct Spell - ",
             "c1": "inapopriate",
             "c2": "inappopiate",
             "c3": "inappropriate",
@@ -144,7 +144,7 @@
         },
         {
             "ques-id": "e3",
-            "question": "Synonym of tight",
+            "question": "Synonym of tight - ",
             "c1": "solid",
             "c2": "dominant",
             "c3": "loose",
@@ -154,7 +154,7 @@
         },
         {
             "ques-id": "e4",
-            "question": "Synonym of attractive",
+            "question": "Synonym of attractive - ",
             "c1": "lady",
             "c2": "handsome",
             "c3": "police",
@@ -164,7 +164,7 @@
         },
         {
             "ques-id": "e5",
-            "question": "Opposite of Gentleman",
+            "question": "Opposite of Gentleman - ",
             "c1": "lady",
             "c2": "woman",
             "c3": "man",
@@ -174,7 +174,7 @@
         },
         {
             "ques-id": "e6",
-            "question": "Meaning of 'Eye for an Eye' ",
+            "question": "Meaning of 'Eye for an Eye' - ",
             "c1": "a person who causes harm should suffer equivalent harm in return, a principle of retributive justice or reciprocal punishment",
             "c2": "Gaze",
             "c3": "a person who forgive everyone easily",
@@ -184,7 +184,7 @@
         },
         {
             "ques-id": "e7",
-            "question": "a tree with no wood",
+            "question": "Choose a tree with no wood - ",
             "c1": "Orange",
             "c2": "Coconut",
             "c3": "Banana",
@@ -194,7 +194,7 @@
         },
         {
             "ques-id": "e8",
-            "question": "Find Correct Spell",
+            "question": "Find Correct Spell - ",
             "c1": "misscellaneous",
             "c2": "miscelanious",
             "c3": "miscellanitous",
@@ -203,7 +203,7 @@
             "hint": ""
         },
         {
-            "question": "Find correct spell",
+            "question": "Find correct spell - ",
             "ques-id": "e9",
             "c1": "uniinterrupt",
             "c2": "uninterupt",
@@ -214,7 +214,7 @@
         },
         {
             "ques-id": "e10",
-            "question": "Opposite of alacrity",
+            "question": "Opposite of alacrity - ",
             "c1": "eagerness",
             "c2": "apathy",
             "c3": "fevicol",
@@ -224,7 +224,7 @@
         },
         {
             "ques-id": "e11",
-            "question": "Opposite of Pensive",
+            "question": "Opposite of Pensive - ",
             "c1": "reflective",
             "c2": "unreflective",
             "c3": "illusion",
@@ -234,7 +234,7 @@
         },
         {
             "ques-id": "e12",
-            "question": "Opposite of Cajole",
+            "question": "Opposite of Cajole - ",
             "c1": "bull",
             "c2": "nice",
             "c3": "friend",
@@ -246,7 +246,7 @@
     "geography": [
         {
             "ques-id": "g1",
-            "question": "Capital of Vietnam",
+            "question": "Capital of Vietnam - ",
             "c1": "cannibar",
             "c2": "Tokyo",
             "c3": "Hanoi",
@@ -256,7 +256,7 @@
         },
         {
             "ques-id": "g2",
-            "question": "Cpital of Austria",
+            "question": "Cpital of Austria - ",
             "c1": "hanoi",
             "c2": "kongo",
             "c3": "heinna",
@@ -266,7 +266,7 @@
         },
         {
             "ques-id": "g3",
-            "question": "Which of these is NOT Countinent",
+            "question": "Which of these is NOT Countinent - ",
             "c1": "Europe",
             "c2": "Austria",
             "c3": "Australia",
@@ -276,7 +276,7 @@
         },
         {
             "ques-id": "g4",
-            "question": "Capital of India",
+            "question": "Capital of India - ",
             "c1": "Kolkata",
             "c2": "Chennai",
             "c3": "Jammu & Kashmir",
@@ -286,7 +286,7 @@
         },
         {
             "ques-id": "g5",
-            "question": "Total states in India",
+            "question": "Total states in India - ",
             "c1": 20,
             "c2": 30,
             "c3": 29,
@@ -296,7 +296,7 @@
         },
         {
             "ques-id": "g6",
-            "question": "Total countries in the World",
+            "question": "Total countries in the World - ",
             "c1": 199,
             "c2": 201,
             "c3": 195,
@@ -306,7 +306,7 @@
         },
         {
             "ques-id": "g7",
-            "question": "Capital of Argentina",
+            "question": "Capital of Argentina - ",
             "c1": "Buenos Aires",
             "c2": "Andman and Nicobar",
             "c3": "Los Angiles",
@@ -316,7 +316,7 @@
         },
         {
             "ques-id": "g8",
-            "question": "Capital of Garmany",
+            "question": "Capital of Garmany - ",
             "c1": "Berlin",
             "c2": "Bhutan",
             "c3": "Bermony",
@@ -326,7 +326,7 @@
         },
         {
             "ques-id": "g9",
-            "question": "Capital of North Korea",
+            "question": "Capital of North Korea - ",
             "c1": "Seoul",
             "c2": "Tokyo",
             "c3": "Pyongyang",
@@ -336,7 +336,7 @@
         },
         {
             "ques-id": "g10",
-            "question": "Prime Minister of Russia",
+            "question": "Prime Minister of Russia - ",
             "c1": "Sanae Taikichi",
             "c2": "Mikhail Mishustin",
             "c3": "Kim Joung",
@@ -346,7 +346,7 @@
         },
         {
             "ques-id": "g11",
-            "question": "World Largest Country",
+            "question": "World Largest Country - ",
             "c1": "China",
             "c2": "India",
             "c3": "Russia",
@@ -356,7 +356,7 @@
         },
         {
             "ques-id": "g12",
-            "question": "World Smallest Country",
+            "question": "World Smallest Country - ",
             "c1": "Los Angiles",
             "c2": "Argentina",
             "c3": "Pink City",
