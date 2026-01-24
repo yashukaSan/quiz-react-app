@@ -17,4 +17,4 @@ If you are developing a production application, we recommend using TypeScript wi
 "# quiz-react-app" 
 
 
-##I create this quiz project with REACT JS and TAILWIND CSS. In this project I crate the first interface in whihc user enter his/her name, age is optional. After this user will have to choose a subject of which he/she wants to take quiz. In Quiz section, the user choose options that can be altered, after submiting, User got his/ her score. In this page user can can return to start over
+## I create this quiz project with REACT JS and TAILWIND CSS. In this project I crate the first interface in whihc user enter his/her name, age is optional. After this user will have to choose a subject of which he/she wants to take quiz. In Quiz section, the user choose options that can be altered, after submiting, User got his/ her score. In this page user can can return to start over
