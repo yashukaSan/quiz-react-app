@@ -1,0 +1,368 @@
+{
+    "math": [
+        {
+            "ques-id": "m1",
+            "question": "The value of 3.2*2.5 : ",
+            "c1": 35,
+            "c2": 8,
+            "c3": 10,
+            "c4": 7.5,
+            "ans": "b",
+            "hint": ""
+        },
+        {
+            "ques-id": "m2",
+            "question": "The value of 4! : ",
+            "c1": 120,
+            "c2": 24,
+            "c3": 100,
+            "c4": 64,
+            "ans": "d",
+            "hint": ""
+        },
+        {
+            "ques-id": "m3",
+            "question": " The value of n while i^n= -1 : ",
+            "c1": 0,
+            "c2": 1,
+            "c3": 2,
+            "c4": 3,
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "m4",
+            "question": "Evaluate: 34 + 78 - 8 * 3 ",
+            "c1": 78,
+            "c2": 88,
+            "c3": 68,
+            "c4": 98,
+            "ans": "b",
+            "hint": "(HINT: Use BODMAS)"
+        },
+        {
+            "ques-id": "m5",
+            "question": "Evaluate: 4*4+3/3+1",
+            "c1": 20,
+            "c2": 8.33,
+            "c3": 9,
+            "c4": 21,
+            "ans": "a",
+            "hint": "HINT: Use BODMAS"
+        },
+        {
+            "ques-id": "m6",
+            "question": "Area of a Rectangular field whose length is 2.25km and width is 750m: ",
+            "c1": "1.55 sq.km",
+            "c2": "2.002 sq.km",
+            "c3": "1.685 sq.km",
+            "c4": "1.6875 sq.km",
+            "ans": "d",
+            "hint": "Notice measure unit"
+        },
+        {
+            "ques-id": "m7",
+            "question": "Area of hollow circular field whose outer radius if 75m and inner dimeter is 70m",
+            "c1": "13816 sq.m",
+            "c2": "2276.5 sq.m",
+            "c3": "2500 sq.m",
+            "c4": "12250 sq.m",
+            "ans": "a",
+            "hint": "Value of pi is 3.14"
+        },
+        {
+            "ques-id": "m8",
+            "question": "Find the volume of 20m high cylinder whose radius is 30m",
+            "c1": "56560 cu.m",
+            "c2": "55565 cu.m",
+            "c3": "56556 cu.m",
+            "c4": "56565 cu.m",
+            "ans": "c",
+            "hint": "Cylinder Volume: πr²h"
+        },
+        {
+            "ques-id": "m9",
+            "question": "Evaluate: 70% of 30% of 3900",
+            "c1": 820,
+            "c2": 821,
+            "c3": 819,
+            "c4": 719,
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "m10",
+            "question": "Person A buy car for $450000 then use it for 300 days, average daily consumption of car is $45, then Person A sold it for $440000 to a Person B, Person B give repairment to the car which is worth $3000, After that Person B also sold the car in $460000. Find Profit made by Person B compare to Person A",
+            "c1": "$40500",
+            "c2": "$40000",
+            "c3": "$17000",
+            "c4": "$15500",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "m11",
+            "question": "Person A buys 60 products woth $400 each, he sells then for $420 11 pieces per day. Find in what days he sold all his stuff, also find total profit after the total expenses to sell his products is about $300",
+            "c1": "In 5 days with total profit of $900",
+            "c2": "In 6 days with total profit of $1200",
+            "c3": "In 5 days with total profit of $1200",
+            "c4": "In 6 days with total profit of $900",
+            "ans": "d",
+            "hint": ""
+        },
+        {
+            "ques-id": "m12",
+            "question": "Square of 81",
+            "c1": 6551,
+            "c2": 6561,
+            "c3": 6571,
+            "c4": 6501,
+            "ans": "b",
+            "hint": ""
+        }
+    ],
+    "english": [
+        {
+            "ques-id": "e1",
+            "question": "Find correct Spell",
+            "c1": "annotation",
+            "c2": "anoughtation",
+            "c3": "anotation",
+            "c4": "annottation",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "e2",
+            "question": "Find correct Spell",
+            "c1": "inapopriate",
+            "c2": "inappopiate",
+            "c3": "inappropriate",
+            "c4": "inapropriate",
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "e3",
+            "question": "Synonym of tight",
+            "c1": "solid",
+            "c2": "dominant",
+            "c3": "loose",
+            "c4": "light",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "e4",
+            "question": "Synonym of attractive",
+            "c1": "lady",
+            "c2": "handsome",
+            "c3": "police",
+            "c4": "gentleman",
+            "ans": "b",
+            "hint": ""
+        },
+        {
+            "ques-id": "e5",
+            "question": "Opposite of Gentleman",
+            "c1": "lady",
+            "c2": "woman",
+            "c3": "man",
+            "c4": "my lord",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "e6",
+            "question": "Meaning of 'Eye for an Eye' ",
+            "c1": "a person who causes harm should suffer equivalent harm in return, a principle of retributive justice or reciprocal punishment",
+            "c2": "Gaze",
+            "c3": "a person who forgive everyone easily",
+            "c4": "Nothing usual",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "e7",
+            "question": "a tree with no wood",
+            "c1": "Orange",
+            "c2": "Coconut",
+            "c3": "Banana",
+            "c4": "Pine",
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "e8",
+            "question": "Find Correct Spell",
+            "c1": "misscellaneous",
+            "c2": "miscelanious",
+            "c3": "miscellanitous",
+            "c4": "miscellaneous",
+            "ans": "d",
+            "hint": ""
+        },
+        {
+            "question": "Find correct spell",
+            "ques-id": "e9",
+            "c1": "uniinterrupt",
+            "c2": "uninterupt",
+            "c3": "uninterrupt",
+            "c4": "uniinterupt",
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "e10",
+            "question": "Opposite of alacrity",
+            "c1": "eagerness",
+            "c2": "apathy",
+            "c3": "fevicol",
+            "c4": "wsiftness",
+            "ans": "b",
+            "hint": ""
+        },
+        {
+            "ques-id": "e11",
+            "question": "Opposite of Pensive",
+            "c1": "reflective",
+            "c2": "unreflective",
+            "c3": "illusion",
+            "c4": "darkness",
+            "ans": "b",
+            "hint": ""
+        },
+        {
+            "ques-id": "e12",
+            "question": "Opposite of Cajole",
+            "c1": "bull",
+            "c2": "nice",
+            "c3": "friend",
+            "c4": "bully",
+            "ans": "d",
+            "hint": ""
+        }
+    ],
+    "geography": [
+        {
+            "ques-id": "g1",
+            "question": "Capital of Vietnam",
+            "c1": "cannibar",
+            "c2": "Tokyo",
+            "c3": "Hanoi",
+            "c4": "Henma",
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "g2",
+            "question": "Cpital of Austria",
+            "c1": "hanoi",
+            "c2": "kongo",
+            "c3": "heinna",
+            "c4": "Vienna",
+            "ans": "d",
+            "hint": ""
+        },
+        {
+            "ques-id": "g3",
+            "question": "Which of these is NOT Countinent",
+            "c1": "Europe",
+            "c2": "Austria",
+            "c3": "Australia",
+            "c4": "Antartica",
+            "ans": "b",
+            "hint": ""
+        },
+        {
+            "ques-id": "g4",
+            "question": "Capital of India",
+            "c1": "Kolkata",
+            "c2": "Chennai",
+            "c3": "Jammu & Kashmir",
+            "c4": "New Delhi",
+            "ans": "d",
+            "hint": ""
+        },
+        {
+            "ques-id": "g5",
+            "question": "Total states in India",
+            "c1": 20,
+            "c2": 30,
+            "c3": 29,
+            "c4": 28,
+            "ans": "d",
+            "hint": ""
+        },
+        {
+            "ques-id": "g6",
+            "question": "Total countries in the World",
+            "c1": 199,
+            "c2": 201,
+            "c3": 195,
+            "c4": 193,
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "g7",
+            "question": "Capital of Argentina",
+            "c1": "Buenos Aires",
+            "c2": "Andman and Nicobar",
+            "c3": "Los Angiles",
+            "c4": "Vienna",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "g8",
+            "question": "Capital of Garmany",
+            "c1": "Berlin",
+            "c2": "Bhutan",
+            "c3": "Bermony",
+            "c4": "Los Angiles",
+            "ans": "a",
+            "hint": ""
+        },
+        {
+            "ques-id": "g9",
+            "question": "Capital of North Korea",
+            "c1": "Seoul",
+            "c2": "Tokyo",
+            "c3": "Pyongyang",
+            "c4": "New York",
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "g10",
+            "question": "Prime Minister of Russia",
+            "c1": "Sanae Taikichi",
+            "c2": "Mikhail Mishustin",
+            "c3": "Kim Joung",
+            "c4": "None of These",
+            "ans": "b",
+            "hint": ""
+        },
+        {
+            "ques-id": "g11",
+            "question": "World Largest Country",
+            "c1": "China",
+            "c2": "India",
+            "c3": "Russia",
+            "c4": "Australia",
+            "ans": "c",
+            "hint": ""
+        },
+        {
+            "ques-id": "g12",
+            "question": "World Smallest Country",
+            "c1": "Los Angiles",
+            "c2": "Argentina",
+            "c3": "Pink City",
+            "c4": "Vatican City",
+            "ans": "d",
+            "hint": ""
+        }
+    ]
+}
